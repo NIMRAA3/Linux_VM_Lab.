@@ -6,7 +6,7 @@ This repository contains the lab report for installing and using **Cisco Lab VM 
 
 The lab demonstrates how to prepare a host computer for virtualization, import pre-configured VM images, and use them for hands-on exercises safely and efficiently.
 
----
+
 
 ## Objectives
 
@@ -37,7 +37,7 @@ The VM ensures a safe and standardized environment for students to perform netwo
 
 **Note:** 64-bit host system with hardware virtualization enabled in BIOS is required for 64-bit VMs.
 
----
+
 
 ## Lab Steps
 
@@ -76,7 +76,7 @@ The VM ensures a safe and standardized environment for students to perform netwo
 5. Familiarize yourself with pre-installed tools and VM environment.
 6. Shutdown VMs using **File → Close → Save the machine state**.
 
----
+
 
 ## Reflection
 
@@ -91,10 +91,11 @@ The VM ensures a safe and standardized environment for students to perform netwo
 * Performance overhead
 * Potential security risks
 
----
+
 
 ## Conclusion
 
 The lab demonstrates installing and using pre-configured Linux virtual machines on a personal computer. Both **CSE-LABVM** and **Security Workstation** are ready for use in future networking and cybersecurity exercises.
 full report link wth screenshots 
+ [click here to download file ](https://github.com/NIMRAA3/Linux_VM_Lab./blob/main/LINUX%20Lab.docx)
 
