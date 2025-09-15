@@ -27,7 +27,6 @@ Virtualization allows multiple virtual computers (VMs) to run on a single physic
 
 The VM ensures a safe and standardized environment for students to perform networking and cybersecurity labs.
 
----
 
 ## Required Resources
 
